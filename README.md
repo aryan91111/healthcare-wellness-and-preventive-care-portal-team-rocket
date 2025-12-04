@@ -48,7 +48,7 @@ compliance.
 
 ### Frontend
 
--   React (Vite)
+-   React (Next JS)
 -   Axios
 -   React Router
 -   CSS Modules
