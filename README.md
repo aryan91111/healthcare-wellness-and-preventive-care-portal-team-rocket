@@ -2,7 +2,7 @@
 - **Name Member 1 -Aryan Meena** 
 - **Name Member 2 -Ashish Patodiya**
 - **Name Member 2 -Taha Ashraf Ansari**
-This project focuses on an MVP implementation of a **Healthcare Wellness &
+- This project focuses on an MVP implementation of a **Healthcare Wellness &
 Preventive Care Web Portal** built as part of a hackathon challenge. The
 platform enables patients to manage wellness goals and preventive
 reminders while allowing healthcare providers to monitor patient
