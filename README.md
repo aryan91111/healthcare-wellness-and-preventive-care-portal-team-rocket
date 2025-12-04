@@ -53,6 +53,9 @@ compliance.
 -   React Router
 -   CSS Modules
 
+### Frontend Images
+-![general public page](1.jpg)
+
 ### Backend
 
 -   FastAPI (Python)
