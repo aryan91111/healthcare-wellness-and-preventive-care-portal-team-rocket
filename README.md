@@ -54,7 +54,7 @@ compliance.
 -   CSS Modules
 
 ### Frontend Images
--![general public page](1.jpg)
+- General public page![general public page](1.jpg)
 
 ### Backend
 
