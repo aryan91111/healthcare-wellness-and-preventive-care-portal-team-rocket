@@ -166,7 +166,7 @@ npm run dev
 
 Locally, Frontend runs at:
 
-    http://localhost:5173
+    http://localhost:3000
 
 ------------------------------------------------------------------------
 
