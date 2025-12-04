@@ -53,8 +53,14 @@ compliance.
 -   React Router
 -   CSS Modules
 
-### Frontend Images
+### Frontend Deployment Images
 - General public page![general public page](1.jpg)
+- General access page![general access page](2.jpg)
+- create account page![create account page](3.jpg)
+- login window page![login window page](4.jpg)
+- personal dashboard page![personal dashboard page](5.jpg)
+- personal wellness goals page![personal wellness goals page](6.jpg)
+- preventive care reminder page![preventive care reminder page](7.jpg)
 
 ### Backend
 
